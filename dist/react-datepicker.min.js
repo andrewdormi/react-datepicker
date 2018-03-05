@@ -2602,7 +2602,7 @@
       title: e.string,
       todayButton: e.string,
       useWeekdaysShort: e.bool,
-      formatWeekDay: e.bool,
+      formatWeekDay: e.func,
       utcOffset: e.number,
       value: e.string,
       weekLabel: e.string,
